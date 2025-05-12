@@ -1,0 +1,5 @@
+C:\Users\vande\source\repos\Excel_Chart_Formatter\obj\Debug\net6.0\Excel_Chart_Formatter.csproj.AssemblyReference.cache
+C:\Users\vande\source\repos\Excel_Chart_Formatter\obj\Debug\net6.0\Excel_Chart_Formatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\source\repos\Excel_Chart_Formatter\obj\Debug\net6.0\Excel_Chart_Formatter.AssemblyInfoInputs.cache
+C:\Users\vande\source\repos\Excel_Chart_Formatter\obj\Debug\net6.0\Excel_Chart_Formatter.AssemblyInfo.cs
+C:\Users\vande\source\repos\Excel_Chart_Formatter\obj\Debug\net6.0\Excel_Chart_Formatter.csproj.CoreCompileInputs.cache

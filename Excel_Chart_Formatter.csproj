@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <StartProgram>C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE</StartProgram>
+    <StartArguments></StartArguments>
+    <EnableDefaultItems>false</EnableDefaultItems>
+  </PropertyGroup>
+
+  <Target Name="RunNpmStart" BeforeTargets="Build">
+    <Exec Command="npm install" />
+    <Exec Command="start npm start" />
+  </Target>
+
+  <ItemGroup>
+    <None Include="**\*.js" />
+    <None Include="**\*.html" />
+    <None Include="**\*.json" />
+    <None Include="**\*.xml" />
+  </ItemGroup>
+
+</Project>
